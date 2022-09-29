@@ -1,0 +1,16 @@
+{
+  "name": "tutorial_js_frw_jest_zero2hero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^29.0.3",
+    "jest": "^29.1.1"
+  }
+}
